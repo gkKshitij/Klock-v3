@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KLOCK</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_password">Password Change</string>
+    <string name="draw_pattern">Draw Pattern to Unlock</string>
+    <string name="draw_pattern_to_change_password">Enter your Recent Pattern</string>
+    <string name="rate_us">SATRS</string>
+    <string name="banner_home_footer">ca-app-pub-1132202692396549/8734097319</string>
+    <string name="interstitial_full_screen">ca-app-pub-1132202692396549/1210830517</string>
+</resources>
